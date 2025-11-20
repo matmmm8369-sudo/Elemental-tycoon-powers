@@ -57,7 +57,7 @@ G2L["5"]["TextSize"] = 14;
 G2L["5"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["5"]["Size"] = UDim2.new(0, 207, 0, 32);
 G2L["5"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["5"]["Text"] = [[StormHub | Elemental Powers]];
+G2L["5"]["Text"] = [[Storm's Hub | Elemental Powers]];
 G2L["5"]["Name"] = [[NName]];
 G2L["5"]["BackgroundTransparency"] = 1;
 
