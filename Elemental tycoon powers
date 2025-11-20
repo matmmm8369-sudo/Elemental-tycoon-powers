@@ -275,7 +275,7 @@ local script = G2L["17"];
 		},
 		["Gamepass"] = {
 			[1] = "Cruel Sun",
-                        [2] = "rocketlauncher"
+                        [2] = "rocket Launcher"
 		},
 		["Bone"] = {
 			[1] = "Bone Scythe",
