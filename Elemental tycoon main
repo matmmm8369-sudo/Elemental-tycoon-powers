@@ -275,10 +275,14 @@ local script = G2L["17"];
 		},
 		["Gamepass"] = {
 			[1] = "Cruel Sun",
-      [2] = "Meteor Shower",
-      [3] = "Crate Rain",
-      [4] = "Size Toggle"
 		},
+    ["Extras"] = {
+      [1] = "Cold Slap",
+      [2] = "Health Potion",
+      [3] = "Speed Potion",
+      [4] = "Portal Potion",
+      [5] = "Halloween Sword"
+    },
     ["Water"] = {
       [1] = "Atlan's Trident",
       [2] = "Jellyfish",
@@ -439,6 +443,9 @@ local script = G2L["17"];
                      [4]="Plasma Orbs";
                      [5]="Red Saucer";
                      [6]="Undead Staff";
+                     [7]="Elysian Beam";
+                     [8]="Bubble Flail";
+
                 };
 	}
 	
