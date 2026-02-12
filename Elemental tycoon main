@@ -282,7 +282,7 @@ local script = G2L["17"];
       [3] = "Speed Potion",
       [4] = "Portal Potion",
       [5] = "Halloween Sword",
-      [6] = "Meteor Rain"
+      [6] = "Time Slap"
     },
     ["Water"] = {
       [1] = "Atlan's Trident",
@@ -446,6 +446,7 @@ local script = G2L["17"];
                      [6]="Undead Staff";
                      [7]="Elysian Beam";
                      [8]="Bubble Flail";
+                     [9]="Poison Serpent";
 
                 };
 	}
