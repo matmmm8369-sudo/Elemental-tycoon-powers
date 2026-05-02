@@ -285,7 +285,8 @@ local script = G2L["17"];
       [4] = "Portal Potion",
       [5] = "Halloween Sword",
       [6] = "Time Slap",
-      [7] = "Cosmic Anvil"
+      [7] = "Cosmic Anvil",
+      [8] = "Omega Slap"
     },
     ["Water"] = {
       [1] = "Atlan's Trident",
