@@ -276,7 +276,6 @@ local script = G2L["17"];
 		},
 		["Gamepass"] = {
 			[1] = "Cruel Sun",
-      [2] = "Robux Beam"
 		},
     ["Extras"] = {
       [1] = "Cold Slap",
@@ -286,8 +285,8 @@ local script = G2L["17"];
       [5] = "Halloween Sword",
       [6] = "Time Slap",
       [7] = "Cosmic Anvil",
-      [8] = "Omega Slap"
-      [9] = "Max Punch"
+      [8] = "Omega Slap",
+      [9] = "Max Punch",
       [10] = "Woter"
     },
     ["Water"] = {
