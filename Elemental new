@@ -287,12 +287,14 @@ local script = G2L["17"];
       [6] = "Time Slap",
       [7] = "Cosmic Anvil",
       [8] = "Omega Slap"
+      [9] = "Max Punch"
+      [10] = "Woter"
     },
     ["Water"] = {
       [1] = "Atlan's Trident",
       [2] = "Jellyfish",
       [3] = "Bubbles",
-      [4] = "Bubble Dash",
+      [4] = "Whirlpool",
       [5] = "Aqua Trident",
       [6] = "Water Beam",
       [7] = "Big Tsunami"
