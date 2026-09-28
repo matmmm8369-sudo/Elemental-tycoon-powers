@@ -287,7 +287,8 @@ local script = G2L["17"];
       [7] = "Omega Slap",
       [8] = "Jay",
       [9] = "Max Punch",
-      [10] = "Cosmic Anvil"
+      [10] = "Cosmic Anvil",
+      [11] = "Woter"
     },
     ["Water"] = {
       [1] = "Atlan's Trident",
